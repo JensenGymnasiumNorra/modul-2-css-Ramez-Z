@@ -1,0 +1,61 @@
+html, body{
+    height: 100%;   
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex:1
+}
+
+footer{
+    background-color: rgb(77, 77, 77);
+    padding: 10px;
+}
+
+header h1{
+    text-align: center;
+}
+
+header{
+    background-color: blue;
+}
+
+nav table{
+    border-spacing: 20px;
+    position: absolute; top: 0; right: 0;
+    font-size: 20px;
+}
+
+nav th a{
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+nav th a:hover{
+    text-decoration:underline;
+    text-align: center;
+}
+
+footer table th,
+footer table td{
+    text-align: center;
+    width: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+footer table th{
+    background-color: rgb(161, 161, 161);
+}
+
+footer table td{
+    background-color: rgb(192, 191, 191);
+}
+
+

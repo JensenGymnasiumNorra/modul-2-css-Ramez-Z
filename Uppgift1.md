@@ -15,3 +15,11 @@
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+blå bakgrund på header, skapade en tabell utan borders för att skapa "section" knappar, 
+
+skapade 2 main sections men kommer fylla in senare.
+
+skapade en footer med grå bakgrund, samt en tabell som innehåller kontaktsuppgifter.
+
+lekte runt med style filen.
