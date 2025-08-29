@@ -21,7 +21,7 @@ header h1{
 }
 
 header{
-    background-color: blue;
+    background-color: rgb(180, 180, 180);
 }
 
 nav table{
@@ -58,4 +58,11 @@ footer table td{
     background-color: rgb(192, 191, 191);
 }
 
+.about-section p{
+    color: rgb(65, 64, 64);
+    width: 50%;
+}
 
+.field-head h1{
+    font-style: italic;
+}

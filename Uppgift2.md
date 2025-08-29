@@ -21,4 +21,6 @@ Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 3. Styla klassen från ovanstående punkt 5 så att den <h1> har en annan styling än vanliga <h1>
 
 # Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+följde alla uppgifter
+gjorde texten i p mörkare
+gjorde h1 slanted
