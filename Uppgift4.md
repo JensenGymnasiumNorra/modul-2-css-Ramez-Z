@@ -16,7 +16,7 @@ Några av nedanstående:
 4. Height / width  
 
 # Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+inget, hade redan med allting
 
 # Extra övning
 Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp
