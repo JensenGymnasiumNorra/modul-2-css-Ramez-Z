@@ -19,4 +19,4 @@ Några av nedanstående:
 - text-shadow
 
 # Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+Hade redan flera av dessa men la till family, weight och shadow

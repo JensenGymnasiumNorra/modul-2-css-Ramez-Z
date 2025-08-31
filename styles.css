@@ -5,6 +5,7 @@ html, body{
 body{
     display: flex;
     flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 main{
@@ -25,6 +26,7 @@ header{
 }
 
 nav table{
+    margin-top: 7px;
     border-spacing: 20px;
     position: absolute; top: 0; right: 0;
     font-size: 20px;
@@ -52,10 +54,12 @@ footer table td{
 
 footer table th{
     background-color: rgb(161, 161, 161);
+    font-weight: bold;
 }
 
 footer table td{
     background-color: rgb(192, 191, 191);
+    text-shadow: 0 2px 2px rgb(104, 104, 104);
 }
 
 .about-section p{
