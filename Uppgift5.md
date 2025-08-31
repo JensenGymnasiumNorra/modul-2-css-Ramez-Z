@@ -13,4 +13,4 @@ Använd dig av det du har lärt dig om float för att anpassa din sida.
 4. <nav>
 
 # Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+testade mig fram med float, hade redan width samt nav.

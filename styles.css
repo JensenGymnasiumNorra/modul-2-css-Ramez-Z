@@ -62,11 +62,24 @@ footer table td{
     text-shadow: 0 2px 2px rgb(104, 104, 104);
 }
 
-.about-section p{
+.about-section{
     color: rgb(65, 64, 64);
-    width: 50%;
 }
 
-.field-head h1{
+legend h1{
     font-style: italic;
+}
+
+.Me{
+    float: left;
+    width: 200px;
+    height: 90px;
+    margin-right: 10px;
+}
+
+.diplom-img{
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin-right: 400px;
 }
