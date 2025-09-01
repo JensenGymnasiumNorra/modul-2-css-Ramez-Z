@@ -80,11 +80,14 @@ legend h1{
 
 .diplom-img{
     width: 300px;
-    height: 200px;
+    height: 190px;
     float: right;
-    margin-right: 400px;
+    align-items: right;
 }
 
 fieldset{
     margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(5, 20%);
 }
