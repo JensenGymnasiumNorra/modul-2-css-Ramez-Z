@@ -1,6 +1,4 @@
-html, body{
-    height: 100%;   
-}
+
 
 body{
     display: flex;
@@ -15,6 +13,7 @@ main{
 footer{
     background-color: rgb(77, 77, 77);
     padding: 10px;
+    justify-content: center;
 }
 
 header h1{
@@ -23,10 +22,12 @@ header h1{
 
 header{
     background-color: rgb(180, 180, 180);
+    position: fixed;
+    width: 100%;
+    margin-top: -7px;
 }
 
-nav table{
-    margin-top: 7px;
+header table{
     border-spacing: 20px;
     position: absolute; top: 0; right: 0;
     font-size: 20px;
@@ -82,4 +83,8 @@ legend h1{
     height: 200px;
     float: right;
     margin-right: 400px;
+}
+
+fieldset{
+    margin-top: 5%;
 }
